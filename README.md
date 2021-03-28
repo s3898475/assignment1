@@ -32,7 +32,8 @@ While forming a team I would like to look for people that are willing to put in 
 </p>
 <h3>Project idea</h3>
 <p>
-The project idea that I have come up with is an automatic DJ and song mixer. It will be an application that plays music in a way that always keeps the beat going by mixing together a list of songs that the user puts in so that the music does not stop and start when a new song is played and instead is a smooth transition from one song to the other. From the list of songs that the user puts into the playlist, the application will try to find the best chemistry of the song that is playing with another song in the playlist and transition from one to the other.<br>
+The project idea that I have come up with is an automatic DJ and song mixer. It will be an application that plays music in a way that always keeps the beat going by mixing together a list of songs that the user puts in so that the music does not stop and start when a new song is played and instead is a smooth transition from one song to the other. From the list of songs that the user puts into the playlist, the application will try to find the best chemistry of the song that is playing with another song in the playlist and transition from one to the other.
+<br> 
 <br>
 I believe that this project idea will interesting and useful because the application will act like their own personal DJ allowing the users to make their own playlist and have it make a mashup of their songs. This would allow them to bring it to a house party and not have to hire a professional or someone they know to be the DJ or just having the music stop and start each time a new song came on. It would be quick and easy allowing for them to just enjoy the party.<br>
 <br>
