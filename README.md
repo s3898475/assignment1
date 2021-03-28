@@ -7,13 +7,9 @@
 <p>
 <img src="me.PNG" alt="this is meant to be me" style="float:right;width:150px;height:210px">
 My name is Mark Kovach, my student number is s3898475 and my student email is s3898475@student.rmit.edu.au.<br> 
-I was born in Australia and live in the western suburbs. I am the youngest of 2 brothers with my oldest brother having a baby girl. My nationality is Croatian, and my last name<br> 
-translated into English is “Blacksmith”. I am a first-year student at RMIT studying Bachelor of Information Technology. I decided to study at RMIT mainly because I have an <br>
-interest in technology and IT, and wish to learn more about it, so studying at a university that is named for its involvement in technology and things about it was a no brainer for<br> 
-me. Also, an upside would be that it is easy for me to get to. Some hobbies I have are to play and watch soccer (football). I started playing soccer when I was around 6-9. I now play<br> 
-as a defender at Spring Hills Soccer Club. Another hobby I have are to play the guitar and sing. I have been playing the guitar for around 5 years now and have just recently tried to<br> 
-sing along while playing. Other hobbies I have are to watch tv shows, anime and play video games. Some of my favorite tv shows and anime are Avatar the Last Airbender, How I Met Your<br> 
-Mother, Your Lie in April, Hunter x Hunter and Full-metal Alchemist Brotherhood. Some games that I enjoy are CSGO, Undertale, binding of Isaac Rebirth, Spelunky and Pokémon.
+I was born in Australia and live in the western suburbs. I am the youngest of 2 brothers with my oldest brother having a baby girl. My nationality is Croatian, and my last name 
+translated into English is “Blacksmith”. I am a first-year student at RMIT studying Bachelor of Information Technology. I decided to study at RMIT mainly because I have an
+interest in technology and IT, and wish to learn more about it, so studying at a university that is named for its involvement in technology and things about it was a no brainer for me. Also, an upside would be that it is easy for me to get to. Some hobbies I have are to play and watch soccer (football). I started playing soccer when I was around 6-9. I now play as a defender at Spring Hills Soccer Club. Another hobby I have are to play the guitar and sing. I have been playing the guitar for around 5 years now and have just recently tried to sing along while playing. Other hobbies I have are to watch tv shows, anime and play video games. Some of my favorite tv shows and anime are Avatar the Last Airbender, How I Met Your Mother, Your Lie in April, Hunter x Hunter and Full-metal Alchemist Brotherhood. Some games that I enjoy are CSGO, Undertale, binding of Isaac Rebirth, Spelunky and Pokémon.
 </p>
 <h3>Interest in IT</h3>
 <p>
