@@ -22,7 +22,7 @@ The position is someone that reports to the head of testing about penetration te
 <h3>Personal Profile</h3>
 <img src="myers briggs.PNG" alt="myers briggs test" style="float:left">
 <img src="Learning style test.png" alt="Learning style test" style="float:right;height:300px" >
-<img src="big five personality test.PNG" alt="big five personality test" style="float:center;height:100px;">
+<img src="big five personality test.PNG" alt="big five personality test" style="height:300px;">
 <p>
 The results of the of each test was not very surprising for me, as for the learning style test, I find it much easier to learn things if someone shows me how it is done and uses examples rather than someone explaining to me how something is done.<br>
 <br>
